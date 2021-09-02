@@ -7,8 +7,8 @@
     
   <div>
     <a href="https://github.com/mteodorov">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mteodorov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mteodorov&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mteodorov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mteodorov&layout=compact&langs_count=7&theme=tokyonight"/>
     <br>  
     <br>  
     <img align="right" alt="yoda" width="255em" src="https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif?cid=ecf05e477q6hgaiin57l0ywl5vgsctcm79yg81nh5lffwjye&rid=giphy.gif&ct=g">
