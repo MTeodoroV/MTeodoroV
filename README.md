@@ -22,7 +22,6 @@
   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">    
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">    
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">    
-  <img align="center" alt="Graphql" height="30" width="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg">    
     
   ##
  
