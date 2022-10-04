@@ -3,8 +3,11 @@
   <a href = "mailto:mateusteodorovieirabaptista@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   <a href="https://www.linkedin.com/in/mateus-teodoro-vieira-baptista-78b865188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 
+  <!--- 
+
   ##
     
+  
   <div>
     <a href="https://github.com/mteodorov">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mteodorov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -22,6 +25,7 @@
   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">    
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">    
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">    
+      --->
     
   <!--- 
   ##
