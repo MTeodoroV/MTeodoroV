@@ -7,7 +7,7 @@
 
   ##
     
-   <!--- 
+
   <div>
     <a href="https://github.com/mteodorov">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mteodorov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,7 @@
     <img align="right" alt="yoda" width="255em" src="https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif?cid=ecf05e477q6hgaiin57l0ywl5vgsctcm79yg81nh5lffwjye&rid=giphy.gif&ct=g">
   </div>
   
-      --->
+
   <br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
